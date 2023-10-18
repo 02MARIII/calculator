@@ -28,3 +28,4 @@ git clone https://github.com/02MARIII/calculator.git
 
 5. Run the program.
 
+6. Have fun (●'◡'●)
